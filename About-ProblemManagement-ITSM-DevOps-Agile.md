@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## Q. I am looking for Problem Management in DevOps with agile principles if any one has some idea, inputs or document please do share. Thanks.
 
 This is a very dense question. Anything that includes _DevOps_, _Agile_ and _ITIL_ has to be. Let’s try to deconstruct these concepts and then approach the answer piece by piece.
