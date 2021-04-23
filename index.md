@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 ## Welcome to itsm-ng
 
 This page is about that thing...
